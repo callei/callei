@@ -25,9 +25,7 @@
     <a href="https://github.com/callei/Launchpad-MKII-mapper" target="_blank"><img src="app.ico" alt="Launchpad Mapping" width="50" height="50"/></a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-    <a href="https://www.anthropic.com/claude" target="_blank">
-        <img src="claude.svg" alt="Claude" width="50" height="50"/>
-    </a>
+    <img src="claude.svg" alt="Claude" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
