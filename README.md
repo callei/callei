@@ -11,7 +11,7 @@
 
 <p align="center">
 <span style="font-family: 'Fira Code', monospace; font-weight: normal;">
-    <b style="font-weight: normal">Stuff I wish I knew better:</b>
+    <b style="font-weight: normal">Stuff I like:</b>
 </span>
 </p>
 
