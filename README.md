@@ -33,7 +33,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/obsidian/icon.svg" alt="Obsidian" width="50" height="50"/>
-    <a href="https://github.com/callei/Noises" target="_blank"><img src="app2.ico" alt="Noises" width="50" height="50"/><a>
+    <a href="https://github.com/callei/Noises" target="_blank"><img src="icon.ico" alt="Noises" width="50" height="50"/><a>
 </p>
 
 <p align="center">
