@@ -2,16 +2,11 @@
     <img src="logo.png" alt="Logo" width="100">
 </p>
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=800&color=BD93F9&random=false&width=435&lines=Calle;Trying+to+figure+out+my+next+project;Creating+music+or+snowboarding;Sleep+and+Repeat"/>
-</p>
-
-<br>
-<br>
+I'm @callei and I like to optimize everything. 
 
 <p align="center">
 <span style="font-family: 'Fira Code', monospace; font-weight: normal;">
-    <b style="font-weight: normal">Stuff I like:</b>
+    <b style="font-weight: normal">Things I do:<b>
 </span>
 </p>
 
