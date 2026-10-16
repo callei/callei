@@ -1,16 +1,16 @@
-<p align="center">
+<p align="left">
     <img src="logo.png" alt="Logo" width="100">
 </p>
 
-I'm @callei and I like to optimize everything. 
+😛 HI! I'm @callei and I like to optimize everything. 
 
-<p align="center">
+<p align="left">
 <span style="font-family: 'Fira Code', monospace; font-weight: normal;">
     <b style="font-weight: normal">Things I do:<b>
 </span>
 </p>
 
-<table align="center" style="border: none!important">
+<table align="left" style="border: none!important">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="50"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" height="50"</td>
@@ -24,7 +24,7 @@ I'm @callei and I like to optimize everything.
     <td><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opencode-dark.svg" width="40" height="40"></td>
  </tr>
 </table>
-<table align="center" style="border: none!important">
+<table align="left" style="border: none!important">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="50"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="50"></td>
@@ -36,11 +36,3 @@ I'm @callei and I like to optimize everything.
     <td><a href="https://github.com/callei/Noises" target="_blank"><img src="icon.ico" alt="Noises" width="50" height="50"/></a></td>
   </tr>
 </table>
-
-<p align="center">
-    <br>
-    <a href="https://jagemalm.se" target="_blank">
-        <img src="https://img.shields.io/badge/jagemalm.se-visit-6A5ACD?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website Badge"/>
-    </a>
-</p>
-
