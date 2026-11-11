@@ -2,7 +2,7 @@
     <img src="logo.png" alt="Logo" width="100">
 </p>
 
-😛 HI! I'm @callei and I like to optimize everything. 
+I'm @callei and I like to make things better. 
 
 <p align="left">
 <span style="font-family: 'Fira Code', monospace; font-weight: normal;">
